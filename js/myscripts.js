@@ -1,0 +1,1 @@
+`Current Date: ${dayName}, ${monthName} ${d.getDate()}, ${year}`

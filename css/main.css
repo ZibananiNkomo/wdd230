@@ -1,0 +1,8 @@
+body {font-size: 20px;}
+header, nav, main, footer
+{
+    margin: 1.5rem auto;
+    max-width: 760px;
+    background-color: aqua;
+    
+}
